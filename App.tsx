@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Agreements from './components/Agreements';
 import CatalogPreview from './components/CatalogPreview';
+import BrandShowcase from './components/BrandShowcase';
 import VirtualTryOn from './components/VirtualTryOn';
 import PrescriptionFlow from './components/PrescriptionFlow';
 import Testimonials from './components/Testimonials';
@@ -24,6 +25,7 @@ const App: React.FC = () => {
         <Hero />
         <Agreements />
         <CatalogPreview />
+        <BrandShowcase />
         <VirtualTryOn />
         <PrescriptionFlow />
         <Testimonials />
