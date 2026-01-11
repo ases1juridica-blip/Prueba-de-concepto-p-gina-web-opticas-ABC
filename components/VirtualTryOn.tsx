@@ -6,14 +6,14 @@ import { FaceShape, Product, Category } from '../types';
 const VTO_FRAMES: (Product & { description: string, style: string, previewBg: string })[] = [
   { 
     id: 'v1', 
-    name: 'Oval Gold Kids', 
-    brand: 'ABC Kids', 
+    name: 'Aviator Classic Gold', 
+    brand: 'Ray-Ban', 
     price: 320000, 
     category: Category.OFTALMICAS, 
-    image: 'https://colgafas.freetls.fastly.net/frames/probadores/gafas-para-ninos-en-metal-ovaladas-30102403-probador-982.png?width=600', 
+    image: 'https://m.media-amazon.com/images/I/51goCc6WB9L._AC_SL400_.jpg', 
     recommendedFor: [FaceShape.SQUARE, FaceShape.HEART], 
     style: 'Minimalista', 
-    description: 'Acabado en oro de 14k con diseño ovalado ultra-ligero.',
+    description: 'Gafas de sol negras Ray-Ban.',
     previewBg: 'https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=400&auto=format&fit=crop'
   },
   { 
@@ -34,7 +34,7 @@ const VTO_FRAMES: (Product & { description: string, style: string, previewBg: st
     brand: 'Oakley', 
     price: 595000, 
     category: Category.SOL, 
-    image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?q=80&w=400&auto=format&fit=crop', 
+    image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=500&auto=format&fit=crop', 
     recommendedFor: [FaceShape.ROUND, FaceShape.SQUARE], 
     style: 'Sport', 
     description: 'Material O Matter™ de alta resistencia y ligereza.',
