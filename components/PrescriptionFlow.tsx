@@ -22,7 +22,7 @@ const PrescriptionFlow: React.FC = () => {
             <div className="grid grid-cols-2 gap-6 relative z-10">
               <div className="space-y-6">
                 <div className="relative group overflow-hidden rounded-3xl">
-                  <img src="https://images.unsplash.com/photo-1581093192414-368ed48a0f4a?q=80&w=400&auto=format&fit=crop" className="w-full transition-transform duration-700 group-hover:scale-110" alt="Tecnología Óptica" />
+                  <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?q=80&w=500&auto=format&fit=crop" className="w-full transition-transform duration-700 group-hover:scale-110" alt="Tecnología Óptica" />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent opacity-60"></div>
                 </div>
                 <div className="bg-blue-600 p-8 rounded-3xl shadow-2xl shadow-blue-600/20 text-center transform hover:-rotate-2 transition-transform">
@@ -36,7 +36,7 @@ const PrescriptionFlow: React.FC = () => {
                    <p className="text-xs text-slate-400">Atención presencial en nuestras sedes físicas.</p>
                 </div>
                 <div className="relative group overflow-hidden rounded-3xl">
-                  <img src="https://images.unsplash.com/photo-1590141682119-e717c446706f?q=80&w=400&auto=format&fit=crop" className="w-full transition-transform duration-700 group-hover:scale-110" alt="Examen Visual" />
+                  <img src="https://images.unsplash.com/photo-1577803645773-f96470509666?q=80&w=500&auto=format&fit=crop" className="w-full transition-transform duration-700 group-hover:scale-110" alt="Examen Visual" />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent opacity-60"></div>
                 </div>
               </div>

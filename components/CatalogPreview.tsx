@@ -28,7 +28,7 @@ const MOCK_PRODUCTS: Product[] = [
     brand: 'ABC Collection', 
     price: 345000, 
     category: Category.OFTALMICAS, 
-    image: 'https://images.unsplash.com/photo-1511499767350-a1590fdb2ca8?q=80&w=500&auto=format&fit=crop', 
+    image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=500&auto=format&fit=crop', 
     badge: 'Protección Luz Azul',
     recommendedFor: [FaceShape.OVAL]
   },
@@ -38,7 +38,7 @@ const MOCK_PRODUCTS: Product[] = [
     brand: 'Johnson & Johnson', 
     price: 185000, 
     category: Category.LENTES_CONTACTO, 
-    image: 'https://images.unsplash.com/photo-1509100104048-73c99a1f6bb8?q=80&w=500&auto=format&fit=crop' 
+    image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?q=80&w=500&auto=format&fit=crop' 
   },
 ];
 
